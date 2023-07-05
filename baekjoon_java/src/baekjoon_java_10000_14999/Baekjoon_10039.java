@@ -17,6 +17,7 @@ public class Baekjoon_10039 {
 				cnt+=40;
 			}
 		}
+		sc.close();
 		System.out.println(cnt/5);
 	}
 
